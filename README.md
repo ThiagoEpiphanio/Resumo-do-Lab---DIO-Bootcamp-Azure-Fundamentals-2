@@ -31,8 +31,6 @@ O Azure proporciona ferramentas para planejamento e controle de custos, como:
 ### 5. Segurança  
 A segurança é um dos pilares do Azure, com recursos que incluem:  
 - **Criptografia de dados** em trânsito e em repouso.  
-- **Gerenciamento de identidades** robusto, com suporte ao Azure Active Directory.  
-- **Certificações de conformidade** globais, como ISO 27001, GDPR e HIPAA.  
 
 ### 6. Governança  
 O Azure oferece soluções para que as empresas mantenham controle sobre seus recursos e dados:  
@@ -55,7 +53,7 @@ O **Service Level Agreement (SLA)** da Microsoft garante altos níveis de dispon
 - **Azure SQL Database**: SLA de **99,99%** para alta disponibilidade.  
 - **Serviços de Rede**: SLA de até **99,95%** em soluções de balanceamento de carga e VPN.  
 
-Essas garantias oferecem confiança para implementar cargas de trabalho críticas e minimizar interrupções no serviço.  
+Essas garantias oferecem confiança para implementar cargas de trabalho críticas e minimizar interrupções no serviço. No caso do provider não conseguir garantir o tempo firmado, o contratante recebe desconto no pagamento ou créditos para usar no Azure. 
 
 ---
 
